@@ -1,0 +1,6 @@
+{
+  "name": "SwissRiverWaterTemp",
+  "description": "Predict water temperature using time-series + graph",
+  "author": "Your Name",
+  "version": "0.1"
+}
